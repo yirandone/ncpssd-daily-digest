@@ -1,0 +1,15 @@
+# Python virtual environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+
+# Generated local files
+digest_output/
+ncpssd_response.json
+pushed.txt
+
+# VS Code local settings
+.vscode/
